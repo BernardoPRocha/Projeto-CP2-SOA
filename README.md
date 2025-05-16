@@ -25,7 +25,3 @@ Este projeto tem como objetivo aplicar os conceitos de arquitetura orientada a s
 ## 👥 Integrantes
 
 - **Bernardo Rocha – RM: 99209**
-
-- **[Nome do colega 2] – RM: [xxxxx]**
-
-- **[Nome do colega 3] – RM: [xxxxx]**
