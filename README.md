@@ -1,4 +1,4 @@
-# Projeto-CP2---SOA
+# Projeto-CP2-SOA
 
 # 🍷 Winery SOAP Services - Checkpoint 2
 **Disciplina:** Arquitetura SOA e Web Services  
